@@ -1,0 +1,15 @@
+artifact_uri: file:///home/argiphonte/code/Argiphonte/TaxiFareModel/mlruns/1/b4149eaae9bc49e99213fa902f684199/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b4149eaae9bc49e99213fa902f684199
+run_uuid: b4149eaae9bc49e99213fa902f684199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643760383776
+status: 1
+tags: []
+user_id: unknown
